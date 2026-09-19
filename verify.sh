@@ -36,6 +36,7 @@ echo "==> compiling"
 rm -rf build/selfcheck && mkdir -p build/selfcheck
 "$JAVAC" -d build/selfcheck $(find src/main/java -name '*.java' \
   ! -name 'MongoDocumentStore.java' \
+  ! -name 'MongoBenchmark.java' \
   ! -name 'App.java')
 
 echo
