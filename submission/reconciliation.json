@@ -1,0 +1,118 @@
+{
+  "discrepancies": [
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-03T11:51+05:30",
+      "amount": "3655.31",
+      "note": "Missing credit of Rs.3655.31 between 2026-07-03T11:51+05:30 and 2026-07-04T18:41+05:30. Bank balance moved from 196250.03 to 199905.34 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-04T18:41+05:30",
+      "amount": "1657.99",
+      "note": "Missing debit of Rs.1657.99 between 2026-07-04T18:41+05:30 and 2026-07-12T12:29+05:30. Bank balance moved from 199858.01 to 198200.02 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-12T12:29+05:30",
+      "amount": "2605.31",
+      "note": "Missing credit of Rs.2605.31 between 2026-07-12T12:29+05:30 and 2026-07-12T15:53+05:30. Bank balance moved from 197300.03 to 199905.34 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-12T15:53+05:30",
+      "amount": "3856.03",
+      "note": "Missing debit of Rs.3856.03 between 2026-07-12T15:53+05:30 and 2026-07-12T17:59+05:30. Bank balance moved from 199858.01 to 196001.98 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-12T17:59+05:30",
+      "amount": "5819.01",
+      "note": "Missing credit of Rs.5819.01 between 2026-07-12T17:59+05:30 and 2026-07-16T08:06+05:30. Bank balance moved from 194002.97 to 199821.98 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-16T08:06+05:30",
+      "amount": "1955.19",
+      "note": "Missing debit of Rs.1955.19 between 2026-07-16T08:06+05:30 and 2026-07-16T15:54+05:30. Bank balance moved from 199732.97 to 197777.78 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-16T15:54+05:30",
+      "amount": "864.21",
+      "note": "Missing credit of Rs.864.21 between 2026-07-16T15:54+05:30 and 2026-07-17T17:56+05:30. Bank balance moved from 196666.67 to 197530.88 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-17T17:56+05:30",
+      "amount": "1481.46",
+      "note": "Missing credit of Rs.1481.46 between 2026-07-17T17:56+05:30 and 2026-07-18T17:09+05:30. Bank balance moved from 196296.32 to 197777.78 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-18T17:09+05:30",
+      "amount": "1981.99",
+      "note": "Missing credit of Rs.1981.99 between 2026-07-18T17:09+05:30 and 2026-07-19T20:46+05:30. Bank balance moved from 196666.67 to 198648.66 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-19T20:46+05:30",
+      "amount": "1127.67",
+      "note": "Missing credit of Rs.1127.67 between 2026-07-19T20:46+05:30 and 2026-07-20T21:38+05:30. Bank balance moved from 197972.99 to 199100.66 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-20T21:38+05:30",
+      "amount": "5317.65",
+      "note": "Missing debit of Rs.5317.65 between 2026-07-20T21:38+05:30 and 2026-07-21T13:35+05:30. Bank balance moved from 198650.99 to 193333.34 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-21T13:35+05:30",
+      "amount": "8648.65",
+      "note": "Missing credit of Rs.8648.65 between 2026-07-21T13:35+05:30 and 2026-07-23T08:23+05:30. Bank balance moved from 190000.01 to 198648.66 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-23T08:23+05:30",
+      "amount": "1589.99",
+      "note": "Missing credit of Rs.1589.99 between 2026-07-23T08:23+05:30 and 2026-07-25T14:22+05:30. Bank balance moved from 197972.99 to 199562.98 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-25T14:22+05:30",
+      "amount": "10455.57",
+      "note": "Missing debit of Rs.10455.57 between 2026-07-25T14:22+05:30 and 2026-07-27T19:37+05:30. Bank balance moved from 199344.47 to 188888.90 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-27T19:37+05:30",
+      "amount": "16571.99",
+      "note": "Missing credit of Rs.16571.99 between 2026-07-27T19:37+05:30 and 2026-07-31T11:41+05:30. Bank balance moved from 183333.35 to 199905.34 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-07-31T11:41+05:30",
+      "amount": "6524.67",
+      "note": "Missing debit of Rs.6524.67 between 2026-07-31T11:41+05:30 and 2026-08-04T10:59+05:30. Bank balance moved from 199858.01 to 193333.34 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-08-04T10:59+05:30",
+      "amount": "8200.01",
+      "note": "Missing credit of Rs.8200.01 between 2026-08-04T10:59+05:30 and 2026-08-09T18:08+05:30. Bank balance moved from 190000.01 to 198200.02 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-08-09T18:08+05:30",
+      "amount": "899.99",
+      "note": "Missing credit of Rs.899.99 between 2026-08-09T18:08+05:30 and 2026-08-10T21:53+05:30. Bank balance moved from 197300.03 to 198200.02 with no matching message."
+    },
+    {
+      "account_last4": "3310",
+      "occurred_at": "2026-08-10T21:53+05:30",
+      "amount": "2574.63",
+      "note": "Missing credit of Rs.2574.63 between 2026-08-10T21:53+05:30 and 2026-08-12T19:59+05:30. Bank balance moved from 197300.03 to 199874.66 with no matching message."
+    }
+  ]
+}
